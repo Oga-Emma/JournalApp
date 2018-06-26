@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Journal App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="tab_jan">Jan</string>
+    <string name="tab_feb">Feb</string>
+    <string name="tab_mar">Mar</string>
+    <string name="tab_apr">Apr</string>
+    <string name="tab_may">May</string>
+    <string name="tab_jun">Jun</string>
+    <string name="tab_jul">Jul</string>
+    <string name="tab_aug">Aug</string>
+    <string name="tab_sept">Sept</string>
+    <string name="tab_oct">Oct</string>
+    <string name="tab_nov">Nov</string>
+    <string name="tab_dec">Dec</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
